@@ -39,19 +39,14 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 ## `Connect with me:`
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/suprith_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suprith_r_k" height="30" width="40" /></a>
+<a href=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.linkedin.com/in/sudarshanam-yessasvini-358a72287" height="30" width="40" /></a>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
-
-## `📈 GitHub Activity Graph:`
-
-## `Github Status:` 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suprith2002&show_icons=true&locale=en&layout=compact" alt="suprith2002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suprith2002&show_icons=true&locale=en" alt="suprith2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suprith2002&" alt="suprith2002" /></p>
+yessasvini-358a72287" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yessasvini23&show_icons=true&locale=en" alt="yessasvini23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yessasvini23&" alt="yessasvini23" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessasvini23" alt="yessasvini23" /></a></p>
 
 <div style="align:center;
             display:fill;
