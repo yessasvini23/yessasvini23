@@ -39,7 +39,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
-yessasvini-358a72287" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yessasvini23&show_icons=true&locale=en" alt="yessasvini23" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yessasvini23&" alt="yessasvini23" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessasvini23" alt="yessasvini23" /></a></p>
